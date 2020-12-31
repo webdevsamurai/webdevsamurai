@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Ibrahim's github stats](https://github-readme-stats-theta-two.vercel.app/api?username=webdevsamurai&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-theta-two.vercel.app/api/top-langs/?username=webdevsamurai)](https://github.com/webdevsamurai/github-readme-stats)
+[![Top Langs](https://github-readme-stats-theta-two.vercel.app/api/top-langs/?username=webdevsamurai&count_private=true)](https://github.com/webdevsamurai/github-readme-stats)
