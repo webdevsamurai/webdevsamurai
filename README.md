@@ -15,5 +15,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webdevsamurai&show_icons=true&locale=en&layout=compact?count_private=true" alt="webdevsamurai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webdevsamurai&show_icons=true&locale=en?count_private=true" alt="webdevsamurai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webdevsamurai&show_icons=true&locale=en?include_all_commits=true" alt="webdevsamurai" /></p>
 
