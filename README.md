@@ -21,6 +21,11 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=webdevsamurai&show_icons=true&count_private=true)  
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webdevsamurai&show_icons=true&locale=en&layout=compact" alt="webdevsamurai" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webdevsamurai&show_icons=true&locale=en&count_private=true" alt="webdevsamurai" /></p>
+
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=webdevsamurai)  
 
 ![GitHub metrics](https://metrics.lecoq.io/webdevsamurai)  
